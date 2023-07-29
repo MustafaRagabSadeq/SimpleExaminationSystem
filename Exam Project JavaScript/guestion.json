@@ -1,0 +1,82 @@
+[  
+    {
+      "title": "Who invented OOP?",
+      "answer_1": "Andrea Ferro",
+      "answer_2": "Adele Goldberg",
+      "answer_3": "Alan Kay",
+      "answer_4": "Dennis Ritchie",
+      "right_answer": "Alan Kay"
+    },
+    {
+      "title": "Which is not a feature of OOP in general definitions?",
+      "answer_1": "Efficient Code",
+      "answer_2": "Code reusability",
+      "answer_3": "Modularity",
+      "answer_4": "Duplicate/Redundant data",
+      "right_answer": "Duplicate/Redundant data"
+    },
+    {
+      "title": "Which was the first purely object oriented programming language developed?",
+      "answer_1": "Kotlin",
+      "answer_2": "SmallTalk",
+      "answer_3": " Java",
+      "answer_4": "C++",
+      "right_answer": "SmallTalk"
+    },
+    {
+      "title": "Which feature of OOP indicates code reusability?",
+      "answer_1": "Abstraction",
+      "answer_2": "Polymorphism",
+      "answer_3": "Encapsulation",
+      "answer_4": "Inheritance",
+      "right_answer": "Inheritance"
+    },
+    {
+      "title": "Which among the following, for a pure OOP language, is true?",
+      "answer_1": "The language should follow at least 1 feature of OOP",
+      "answer_2": "The language must follow only 3 features of OOP",
+      "answer_3": "The language must follow all the rules of OOP",
+      "answer_4": "The language should follow 3 or more features of OOP",
+      "right_answer": "The language must follow all the rules of OOP"
+    },
+    {
+      "title": "In which access should a constructor be defined, so that object of the class can be created in any function?",
+      "answer_1": "Any access specifier will work",
+      "answer_2": "Private",
+      "answer_3": "Public",
+      "answer_4": "Protected",
+      "right_answer": "Public"
+    },
+    {
+      "title": "What happens when an object is passed by reference?",
+      "answer_1": "Destructor is called at end of function",
+      "answer_2": "Destructor is called when called explicitly",
+      "answer_3": "Destructor is not called",
+      "answer_4": "Destructor is called when function is out of scope",
+      "right_answer": "Destructor is not called"
+    },
+    {
+      "title": "How to access data members of a class?",
+      "answer_1": "Dot, arrow or direct call",
+      "answer_2": "Dot operator",
+      "answer_3": "Arrow operator",
+      "answer_4": "Dot or arrow as required",
+      "right_answer": "Dot or arrow as required"
+    },
+    {
+      "title": "Which feature of OOP reduces the use of nested classes?",
+      "answer_1": "Inheritance",
+      "answer_2": " Binding",
+      "answer_3": "Abstraction",
+      "answer_4": "Encapsulation",
+      "right_answer": "Inheritance"
+    },
+    {
+      "title": " Which of the following is not a property of an object?",
+      "answer_1": "Properties",
+      "answer_2": "Names",
+      "answer_3": "Identity",
+      "answer_4": "Attributes",
+      "right_answer": "Names"
+    }
+  ]

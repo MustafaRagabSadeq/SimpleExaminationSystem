@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Info</title>
+    <style>
+        body{
+            background-color: #074366;
+            width: 100%;
+            height: 100%;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .info{
+            width: 400px;
+            height: 400px;
+            margin-top:10%;
+            margin-left: 40%;                        
+            background-color: #aee8f8;
+            text-align: center;
+            border-radius: 10px;
+        }
+        #btn{
+            width: 100px;
+            height:30px;
+            border: 0px;
+            background-color: #6161f3;
+            color: white;
+            font-size: large;
+            font-weight: 600;
+            border-radius: 8px;
+            margin-top: 40px;
+        }
+        p{
+            font-size: large;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="info">
+        <h1 style="padding-top: 60px;">Exam Instructions</h1>
+        <p style="padding-top: 20px;">Number of questions : 10</p>
+        <p>Exam Duration : 15 min</p>
+        <p>All questions must be answered</p>
+        <p>If you are ready for the exam, press start</p>
+<button id="btn" onfocus="gotoexam()">Start</button>
+    </div>
+    <script>
+      function gotoexam(){
+            window.open("http://127.0.0.1:5500/exam.html")
+            location.replace("https://www.google.com/")
+        }
+    </script>
+</body>
+</html>
